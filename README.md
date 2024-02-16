@@ -2,6 +2,15 @@
 
 I am 23 years old, an Italian student 👨‍💻 and passionate about Cybersecurity💻🔑🌐.
 
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/losquincio.png)](https://tryhackme.com/p/losquincio)
+
+
+
+
+
+
+
+
 <!--
 **nicolasvisci/nicolasvisci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
