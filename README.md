@@ -2,7 +2,6 @@
 
 I am 23 years old, an Italian student 👨‍💻 and passionate about Cybersecurity💻🔑🌐.
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/losquincio.png)](https://tryhackme.com/p/losquincio)
 
 
 
