@@ -43,4 +43,3 @@ href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https:
 href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
 </a> 
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolasvisci&show_icons=true&locale=en&layout=compact" alt="nicolasvisci" /></p>
