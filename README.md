@@ -3,6 +3,11 @@
 <p align="center">
   <b><a href="https://tryhackme.com/p/losquincio/">TryHackMe profile</a></b>
 </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/nicolasvisci/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40"/>
+  </a>
+</p>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
 <a 
@@ -41,5 +46,8 @@ href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https:
 </a>
 <a 
 href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-</a> 
+</a>
+<a 
+href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> 
+</a>
 </p>
