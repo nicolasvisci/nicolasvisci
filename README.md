@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Nicolas 👋</h1>
-<h3 align="center">Cybersecurity Master's Degree Student</h3>
+<h3 align="center">MSc in Cybersecurity | Junior Cybersecurity Analyst</h3>
 <p align="center">
   <b><a href="https://tryhackme.com/p/losquincio/">TryHackMe profile</a></b>
 </p>
